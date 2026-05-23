@@ -11,7 +11,7 @@ export default function Contact() {
 
   const submit = async (e) => {
     e.preventDefault();
-    await axios.post("http://localhost:5000/api/contact", form);
+await axios.post("https://portfolio-1.onrender.com/api/contact", form);
     alert("Message Sent 🚀");
   };
 
