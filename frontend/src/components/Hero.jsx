@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 export default function Hero() {
   return (
     <section
-      id="hero"
+      id="home"
       className="h-screen flex flex-col md:flex-row items-center justify-center px-6 md:px-20 gap-10"
     >
       {/* LEFT SIDE */}
