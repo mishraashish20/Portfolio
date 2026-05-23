@@ -16,7 +16,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Hi, I'm <span className="text-cyan-400">Ashish</span> 👋
+          Hi, I'm <span className="text-cyan-400">Ashish</span> 
         </motion.h1>
 
         {/* Animated Profession */}
