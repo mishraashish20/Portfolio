@@ -39,7 +39,7 @@ export default function Hero() {
           View Projects
         </motion.a>
         <motion.a
-  href="/resume.pdf"
+  href="/ashishResume.pdf"
   download
   className="ml-4 inline-block mt-6 px-6 py-3 border border-cyan-400 rounded-xl text-cyan-400 font-semibold"
   whileHover={{ scale: 1.1 }}
